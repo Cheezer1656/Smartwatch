@@ -19,6 +19,6 @@ Now that I think about it the first two "goals" are kind of a must so don't real
 - Accelerometer
 - Gyroscope
 - Magnetometer
-- Rechargable battery
+- Rechargeable battery
 - ~64 MB of storage
 - App system
