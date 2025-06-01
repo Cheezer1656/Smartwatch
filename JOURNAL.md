@@ -40,7 +40,7 @@ I'm still debating between these two displays:
 
 The BuyDisplay display is a lot cheaper but the documentation seems poor (It doesn't even say what touch driver it uses! Also, while the Waveshare display has examples for the Raspberry Pi Pico and STM32s, the BuyDisplay one has a single small example for the 8051 microcontroller). Also, the BuyDisplay display has a flex cable instead of just exposing pins, so that might be troublesome. I'm going to ask some friends for advice and come back to this tomorrow.
 
-# May 31, 2025
+# May 31, 2025 (2 hours)
 ## Finalizing the Display
 After discussing with others and thinking a bit more, I ended up choosing the Waveshare display because I want my experience to be smooth. This is basically my first time doing hardware so I don't want to dive into the deep end just yet. With the BuyDisplay display I might even have to write my own touch driver.
 
